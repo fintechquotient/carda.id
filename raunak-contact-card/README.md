@@ -21,3 +21,4 @@ A modern, responsive contact card built with Next.js and Tailwind CSS.
 ```bash
 npm install
 npm run dev
+```
